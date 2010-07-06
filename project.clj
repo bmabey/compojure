@@ -1,5 +1,5 @@
-(defproject compojure "0.3.3"
-  :description "A concise web framework for Clojure"
+(defproject org.clojars.bmabey/compojure "0.3.3"
+  :description "0.3.3 compojure version compat with clojure 1.2"
   :dependencies [[org.clojure/clojure "1.2.0-master-SNAPSHOT"]
                  [org.clojure/clojure-contrib "1.2.0-SNAPSHOT"]
                  [commons-codec "1.3"]
